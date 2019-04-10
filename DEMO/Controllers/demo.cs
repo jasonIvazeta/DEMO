@@ -8,15 +8,15 @@ namespace DEMO.Controllers
     public class demo
     {
 
+
         //agregado comentarios
         //asdasdasda
         ///brayan xivo
         ///
         //CUARTO COMENTARIO
 <<<<<<< HEAD
-        
-=======
 
+=======
         //quinto COMENTARIO
 
         //sexto COMENTARIO
@@ -25,7 +25,10 @@ namespace DEMO.Controllers
 
 
 
-
         //larry2
+
+
+        ////quinto COMENTARIO22
+
     }
 }
